@@ -8,7 +8,7 @@ namespace Project_for_waste_food
 {
     public class OrderType
     {
-        private string OrdertypeId { get; set; }
+        public int Id { get; set; }
         private string OrderTypeName { get; set; }
     }
 

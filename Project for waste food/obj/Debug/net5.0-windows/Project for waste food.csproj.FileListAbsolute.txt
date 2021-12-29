@@ -52,3 +52,11 @@ C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debu
 C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\System.Data.SQLite.dll
 C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.log_in.resources
 C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Form1.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Properties.Resources.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.signUpAsCharity.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.ChooseAndSelectFood.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.howDonorAddFood.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Profile.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Add_Doner.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home_Admin.resources

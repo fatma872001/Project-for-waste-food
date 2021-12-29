@@ -35,5 +35,5 @@ namespace Project_for_waste_food
         public DbSet<OrderStep> OrderSteps { get; set; }
 
     }
-    
+
 }

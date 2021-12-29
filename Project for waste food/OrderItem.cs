@@ -8,13 +8,11 @@ namespace Project_for_waste_food
 {
     public class OrderItem
     {
-        private string orderitemId;
+        public int Id { get; set; }
         public string OrderItemExdate { get; set; }
         public string OrderItemDes { get; set; }
         public string OrderItemName { get; set; }
-
-        public string OrderId { get; set; }
-
+       // public string OrderId { get; set; }
 
     }
 }

@@ -8,9 +8,9 @@ namespace Project_for_waste_food
 {
     public class Vendor
     {
-        private string vendorId;
-        public string VendorPassward { get; set; }
-        public string VendorAddresss { get; set; }
+        public int Id { get; set; }
+        public string VendorPassword { get; set; }
+        public string VendorAddress { get; set; }
         public string VendorMail { get; set; }
         public string VendorPhone { get; set; }
         public string VendorName { get; set; }
@@ -18,7 +18,6 @@ namespace Project_for_waste_food
         public string VendorId { get; set; }
         public virtual IEnumerable<Order> Orders { get; set; }
         public virtual IEnumerable<Customer> Customers { get; set; }
-
+    }
 
     }
-}

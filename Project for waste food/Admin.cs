@@ -8,9 +8,10 @@ namespace Project_for_waste_food
 {
     public class Admin
     {
-        public string AdminPassward { get; set; }
+        public string AdminPassword { get; set; }
+        public string AdminName { get; set; }
         public string AdminMail { get; set; }
-        public string AdminId { get; set; }
+        public int Id { get; set; }
 
     }
 }

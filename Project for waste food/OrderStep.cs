@@ -8,6 +8,6 @@ namespace Project_for_waste_food
 {
     public class OrderStep
     {
-
+        public int id { get; set; }
     }
 }

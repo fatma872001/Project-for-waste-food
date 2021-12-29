@@ -8,9 +8,9 @@ namespace Project_for_waste_food
 {
     public class Customer
     {
-        private string customerId;
-        public string CustomerPassward { get; set; }
-        public string CustomerAddresss { get; set; }
+        public int Id { get; set; }
+        public string CustomerPassword { get; set; }
+        public string CustomerAddress { get; set; }
         public string CustomerMail { get; set; }
         public string CustomerPhone { get; set; }
         public string CustomerName { get; set; }
